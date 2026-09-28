@@ -42,6 +42,32 @@ data:extend({
             }
         }
     },
+    --firearm-magazine-with-aluminium
+    {
+        type = "recipe",
+        name = "firearm-magazine-with-aluminium",
+        enabled = true,
+        energy_required = 1,
+        ingredients = {
+            {
+            type = "item",
+            name = "aluminium-plate",
+            amount = 3
+            }
+            {
+                type = "item",
+                name = "iron-plate",
+                amount = 1
+            }
+        },
+        results = {
+            {
+            type = "item",
+            name = "firearm-magazine",
+            amount = 1
+            }
+        }
+    },
     --electronic-circuit-with-aluminium
     {
         type = "recipe",
@@ -95,6 +121,7 @@ data:extend({
             }
         }
     },
+    --big-electric-pole-with-aluminium
     {
         type = "recipe",
         name = "big-electric-pole-with-aluminium",
