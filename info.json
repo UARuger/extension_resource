@@ -1,0 +1,9 @@
+{
+    "name": "extension_resource",
+    "version": "0.1.0",
+    "title": "Extention Resource",
+    "author": "Ruger",
+    "description": "Extension resource in vanile Factorio",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"]
+}

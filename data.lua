@@ -1,0 +1,6 @@
+require("prototypes.items")
+require("prototypes.recipes")
+require("prototypes.entity.resources")
+require("prototypes.autoplace-controls")
+require("prototypes.entity.sounds")
+require("prototypes.technologies")
