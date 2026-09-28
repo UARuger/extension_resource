@@ -53,7 +53,7 @@ data:extend({
             type = "item",
             name = "aluminium-plate",
             amount = 3
-            }
+            },
             {
                 type = "item",
                 name = "iron-plate",
